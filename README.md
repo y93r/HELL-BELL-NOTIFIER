@@ -17,7 +17,7 @@ pip install beautifulsoup4
 
 ## DESENVOLVIMENTO
 - Este projeto tem como objetivo criar um notificador de noticias do site Whiplash;
-- Usar a url do site whiplash no formato xml através de um RSS Feed;
+- Usar a url do site Whiplash no formato xml através de um RSS Feed;
 - Criar um User-Agent, adicionando-o ao cabeçalho da requisição HTTP, assim evitando bloqueios por parte de servidores que rejeitam requisições sem um identificador de navegador;
 - Processamento dos dados xml;
 - Extração dos dados, buscando elementos contidos na tag <item>;
@@ -26,6 +26,8 @@ pip install beautifulsoup4
 - O script faz uma pausa de 10 segundos entre as notificações para garantir que todas sejam exibidas devidamente.
 - Após exibir a última notícia, o programa será encerrado automaticamente. 
 - Durante a execução, é possível continuar utilizando o computador normalmente para outras atividades, sem interrupções.
+
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ## Documentação
 [lxml](https://lxml.de/) | [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | [Plyer](https://plyer.readthedocs.io/en/latest/#)
