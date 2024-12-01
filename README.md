@@ -29,5 +29,8 @@ pip install beautifulsoup4
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
+## SCREENSHOT
+<img src = "https://github.com/y93r/HELL-BELL-NOTIFIER/blob/main/hell-bell.jpg">
+
 ## Documentação
 [lxml](https://lxml.de/) | [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | [Plyer](https://plyer.readthedocs.io/en/latest/#)
